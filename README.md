@@ -27,14 +27,14 @@ git checkout nombreRama
 git show-branch
 ```
 
-### Hacer un commit (Añadimos todos los archivos al commit y subimos al repositorio):
+### Subir al repositorio (Añadimos todos los archivos al commit y hacemos un push):
 ```
 git add .   (espacio y punto)
 git commit -m "comentario"  (el comentario tiene que ir entre comillas)
 git push origin nombreRama
 ```
 
-### Hacer un merge (fucionar ramas):
+### Fucionar ramas (merge):
 ```
 git merge otraRama  (otra rama a fucionar)
 git push origin nombreRama (rama en la que estamos ubicados)
