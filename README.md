@@ -33,7 +33,7 @@ git add .   (espacio y punto)
 git commit -m "comentario"  (el comentario tiene que ir entre comillas)
 git push origin nombreRama
 ```
-
+_Aclaración 3: Siempre que queramos subir algo a una rama especifica observar si estamos ubicados sobre esa rama (aparece entre parentesis en la consola)_
 ### Fucionar ramas (merge):
 ```
 git merge otraRama  (otra rama a fucionar)
