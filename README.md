@@ -14,7 +14,7 @@ _Aclaración 2: Una vez clonado el repositorio, para realizar alguna accion sobr
 
 ### Crear una rama:
 ```
-git branch nombreRama
+git branch nombreRama  (Ponerle un nombre a la rama)
 ```
 
 ### Ubicarse sobre la rama creada:
@@ -31,7 +31,7 @@ git show-branch
 ```
 git add .   (espacio y punto)
 git commit -m "comentario"  (el comentario tiene que ir entre comillas)
-git push origin nombreRama
+git push origin nombreRama  (Poner el nombre de la rama actual)
 ```
 _Aclaración 3: Siempre que queramos subir algo a una rama especifica observar si estamos ubicados sobre esa rama (aparece entre parentesis en la consola)_
 ### Fucionar ramas (merge):
