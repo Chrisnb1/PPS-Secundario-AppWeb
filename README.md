@@ -34,7 +34,7 @@ git commit -m "comentario"  (el comentario tiene que ir entre comillas)
 git push origin nombreRama  (Poner el nombre de la rama actual)
 ```
 _Aclaración 3: Siempre que queramos subir algo a una rama especifica observar si estamos ubicados sobre esa rama (aparece entre parentesis en la consola)_
-### Fucionar ramas (merge):
+### Fusionar ramas (merge):
 ```
 git merge otraRama  (otra rama a fucionar)
 git push origin nombreRama (rama en la que estamos ubicados)
